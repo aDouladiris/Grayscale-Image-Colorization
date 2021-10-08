@@ -1,6 +1,6 @@
 # Grayscale-Image-Colorization 
-The source code will remain private
-For demonstration only
+The source code will remain private.
+For demonstration only.
 
 RGB colorspace
 
