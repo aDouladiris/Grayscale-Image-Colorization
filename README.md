@@ -2,7 +2,7 @@
 
 RGB colorspace
 
-![image](https://user-images.githubusercontent.com/58791947/136596238-18fafc16-7188-47f3-aa97-ae9e50b18ebb.png)
+![image](https://user-images.githubusercontent.com/58791947/136596492-0004e8a4-8f19-48ca-8382-df613864cf3f.png)
 
 RGB2LAB conversion
 
