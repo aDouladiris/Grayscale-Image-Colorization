@@ -22,6 +22,10 @@ SLIC image segmentation
 
 Color reduction after performing SLIC + Kmeans
 
+![image](https://user-images.githubusercontent.com/58791947/136598998-9fcf51ea-b6df-438a-8f6d-1302e7c70ae7.png)
+
+Color reduction after performing SLIC + Kmeans + Lmean
+
 ![image](https://user-images.githubusercontent.com/58791947/136598224-c7773d55-3db2-4c74-b651-7eca4803e7b6.png)
 
 Superpixel collection per Image
